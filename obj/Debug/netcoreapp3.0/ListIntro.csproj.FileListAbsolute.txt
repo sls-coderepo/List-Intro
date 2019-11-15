@@ -1,0 +1,11 @@
+C:\Users\Shirish\Projects\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.exe
+C:\Users\Shirish\Projects\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.deps.json
+C:\Users\Shirish\Projects\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.runtimeconfig.json
+C:\Users\Shirish\Projects\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.runtimeconfig.dev.json
+C:\Users\Shirish\Projects\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.dll
+C:\Users\Shirish\Projects\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.pdb
+C:\Users\Shirish\Projects\workspace\ListIntro\obj\Debug\netcoreapp3.0\ListIntro.csprojAssemblyReference.cache
+C:\Users\Shirish\Projects\workspace\ListIntro\obj\Debug\netcoreapp3.0\ListIntro.AssemblyInfoInputs.cache
+C:\Users\Shirish\Projects\workspace\ListIntro\obj\Debug\netcoreapp3.0\ListIntro.AssemblyInfo.cs
+C:\Users\Shirish\Projects\workspace\ListIntro\obj\Debug\netcoreapp3.0\ListIntro.dll
+C:\Users\Shirish\Projects\workspace\ListIntro\obj\Debug\netcoreapp3.0\ListIntro.pdb
